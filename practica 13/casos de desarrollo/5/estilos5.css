@@ -1,0 +1,40 @@
+h1{
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+position: static;
+text-align: center;
+border: crimson  10px;
+margin: 0px;
+color: #000;
+
+}
+
+
+h4{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: static;
+    text-align: center;
+    border: crimson  5px;
+    margin: 0px;
+    color: #000;
+    
+    }
+
+
+    img{
+
+        position: relative;
+        left: 80px;
+        width: 286px;
+        height: 194px;
+       
+
+    }
+
+    .linea{
+
+        width: 1115px;
+        height: 2px;
+
+    }

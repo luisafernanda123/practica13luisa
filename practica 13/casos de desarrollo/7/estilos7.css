@@ -1,0 +1,39 @@
+body{
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+section{
+    
+    width: 700px;
+    background-color: violet;
+    padding: 10px;
+}
+
+h1{
+
+    text-align: center;
+
+}
+
+
+h3{
+
+    position: absolute;
+    padding: 10px;
+    background-color: blueviolet;
+    color: black;
+    top: 242px;
+    left: 300px;
+   z-index: 1;
+}
+
+
+
+img {
+    position: relative;
+    width: 170px;
+    height: 194px;
+}
